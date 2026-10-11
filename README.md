@@ -35,6 +35,14 @@ This project is currently under development.
 - Enhance database operations
 - Explore analytics or AI/ML-based features where useful
 
+## Screenshots
+
+### Dashboard
+![Inventory Management System Dashboard](dashboard.png.png)
+
+### Employee Management
+![Employee Management Window](employee-window.png.png)
+
 ## Project Status
 🚧 Work in Progress
 
