@@ -42,7 +42,7 @@ This project is currently under development.
 
 ### Employee Management
 
-![Employee Management Window](employee-window.png.png)
+![Employee Management Window](employee_window.png.png)
 
 
 ## Project Status
