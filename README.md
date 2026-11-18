@@ -41,7 +41,9 @@ This project is currently under development.
 ![Inventory Management System Dashboard](dashboard.png.png)
 
 ### Employee Management
+
 ![Employee Management Window](employee-window.png.png)
+
 
 ## Project Status
 🚧 Work in Progress
